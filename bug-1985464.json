@@ -1,0 +1,86 @@
+{
+  "bugs": [
+    {
+      "depends_on": [],
+      "qa_contact": "",
+      "version": "unspecified",
+      "cf_due_date": null,
+      "creator": "aprameyapc6@gmail.com",
+      "summary": "UI bug: Text overflows Thunderbird card on Enter a Bug page (dark theme)",
+      "regressions": [],
+      "component": "User Interface",
+      "comment_count": 3,
+      "product": "bugzilla.mozilla.org",
+      "groups": [],
+      "is_confirmed": false,
+      "id": 1985464,
+      "mentors_detail": [],
+      "cf_a11y_review_project_flag": "---",
+      "assigned_to": "nobody@mozilla.org",
+      "cf_user_story": "",
+      "platform": "Unspecified",
+      "status": "UNCONFIRMED",
+      "dupe_of": null,
+      "creator_detail": {
+        "nick": "aprameyapc6",
+        "real_name": "Aprameya",
+        "id": 777450,
+        "name": "aprameyapc6@gmail.com",
+        "email": "aprameyapc6@gmail.com"
+      },
+      "cf_last_resolved": null,
+      "regressed_by": [],
+      "last_change_time": "2025-09-10T05:59:33Z",
+      "whiteboard": "",
+      "is_creator_accessible": true,
+      "cf_cab_review": "---",
+      "duplicates": [],
+      "severity": "S3",
+      "keywords": [
+        "bmo-triaged",
+        "good-first-bug"
+      ],
+      "classification": "Developer Infrastructure",
+      "creation_time": "2025-08-27T07:45:22Z",
+      "op_sys": "Unspecified",
+      "mentors": [],
+      "is_cc_accessible": true,
+      "cf_accessibility_severity": "---",
+      "is_open": true,
+      "cc_detail": [
+        {
+          "nick": "wsmwk",
+          "name": "vseerror@fastmail.com",
+          "id": 29811,
+          "real_name": "Wayne Mery (:wsmwk)",
+          "email": "vseerror@fastmail.com"
+        }
+      ],
+      "cc": [
+        "vseerror@fastmail.com"
+      ],
+      "cf_tracking_bmo_push": "---",
+      "cf_fx_points": "---",
+      "priority": "P3",
+      "cf_qa_whiteboard": "",
+      "url": "",
+      "target_milestone": "---",
+      "resolution": "",
+      "see_also": [],
+      "type": "defect",
+      "cf_fx_iteration": "---",
+      "votes": 0,
+      "blocks": [],
+      "assigned_to_detail": {
+        "name": "nobody@mozilla.org",
+        "id": 1,
+        "real_name": "Nobody; OK to take it and work on it",
+        "nick": "nobody",
+        "email": "nobody@mozilla.org"
+      },
+      "alias": null,
+      "flags": []
+    }
+  ],
+  "faults": []
+}
